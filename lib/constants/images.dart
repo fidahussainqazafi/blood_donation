@@ -1,0 +1,1 @@
+const imLogo = 'assets/images/imLogo.png';
